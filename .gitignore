@@ -2,7 +2,7 @@
 out/
 *.iml
 .class
-idea/
+.idea/
 
 ### Eclipse ###
 .apt_generated
